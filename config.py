@@ -3,8 +3,8 @@ from aiogram.types import KeyboardButton
 
 class Config:
     TOKEN = "YOUR_TOKEN"
-    ADMIN_ID = '767458470'
-    OWM_TOKEN = "542e054d9518c010de41f5e16f554fad"
+    ADMIN_ID = 'YOUR_ID'
+    OWM_TOKEN = "YOUR_OWM_TOKEN"
     OPTIONS = [KeyboardButton("Узнать погоду🌅"), KeyboardButton("Продвинутый калькулятор🔢"),
                KeyboardButton('Решить судоку📝'), KeyboardButton("Перевести текст㊙"), KeyboardButton("График📈")]
     LANGUAGE = 'ru'

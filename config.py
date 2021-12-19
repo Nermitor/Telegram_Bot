@@ -2,7 +2,7 @@ from aiogram.types import KeyboardButton
 
 
 class Config:
-    TOKEN = "1657111584:AAGssb1NulkvzXBvR6AZ3a1wCUfO5-7zDMw"
+    TOKEN = "YOUR_TOKEN"
     ADMIN_ID = '767458470'
     OWM_TOKEN = "542e054d9518c010de41f5e16f554fad"
     OPTIONS = [KeyboardButton("Узнать погоду🌅"), KeyboardButton("Продвинутый калькулятор🔢"),
